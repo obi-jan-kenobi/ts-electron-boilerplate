@@ -1,0 +1,15 @@
+{
+  "name": "ele",
+  "version": "1.0.0",
+  "main": "./src/electron/main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "watch": "tsc --watch",
+    "init": "tsc --init"
+  },
+  "devDependencies": {
+    "electron": "1.6.11",
+    "typescript": "^2.3.4"
+  }
+}
