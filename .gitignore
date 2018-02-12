@@ -1,0 +1,16 @@
+node_modules/
+built/*
+~*.docx
+\#*\#
+.\#*
+build.json
+*.config
+*.js.map
+*.js
+coverage/
+internal/
+**/.DS_Store
+.settings
+.idea
+yarn.lock
+yarn-error.log

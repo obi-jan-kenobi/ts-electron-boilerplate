@@ -9,7 +9,9 @@
     "init": "tsc --init"
   },
   "devDependencies": {
-    "electron": "1.6.11",
     "typescript": "^2.3.4"
+  },
+  "dependencies": {
+    "electron": "^1.8.2"
   }
 }
